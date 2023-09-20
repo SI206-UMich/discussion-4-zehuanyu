@@ -45,12 +45,7 @@ class Rectangle():
 
     # YOUR CODE HERE
     def area(self):
-        a = 0
-        if self.verify_input():
-            a = self.width * self.height
-            return a
-        else:
-            return "Invalid input"
+        
             
             
 
